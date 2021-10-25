@@ -14,3 +14,4 @@ author_profile: true
 
 * This projects considering using handhold devices for large scale forestry inventory, We developed new geometric approach to separate materials from noisy and low resolution observations.
 
+![Prototype](../images/projects/geometric_modelling.png)
