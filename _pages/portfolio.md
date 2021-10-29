@@ -12,7 +12,8 @@ author_profile: true
 
 # Tree Modeling from Noisy and Low Resolution Data
 
-* This projects considering using handhold devices for large scale forestry inventory, We developed new geometric approach to separate materials from noisy and low resolution observations.
+
+* This projects considering using handhold devices for large scale forestry inventory <br> We developed new geometric approach to separate materials from noisy and low resolution observations.
 ## Geometric-based wood-leaf separation (Ours v.s. SOTA)
 
 ![Prototype](../images/projects/ID3_1.png)![Prototype](../images/projects/ID3.png) 
