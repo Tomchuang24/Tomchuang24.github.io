@@ -4,9 +4,8 @@ permalink: /cv&contact/
 author_profile: true
 ---
 
-[English CV [PDF]](../files/cv/resume_photo.pdf)
+[English CV [PDF]](../files/cv/resume_ca.pdf)
 
-[Chinese CV [PDF]](../files/cv/resume-zh_CN.pdf)
 
 # Contact
 Civil Engineering, Technion<br>
