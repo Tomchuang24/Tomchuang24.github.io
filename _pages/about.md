@@ -14,6 +14,7 @@ I received my Bachelor's degree and MSc degree in [Wuhan University](https://en.
 My research interests mainly lie in Multi-sensor intergration, Autonomous Mapping and **3D modelling and Geometry Analysis**. <br> I started my research as working with GNSS/INS/LiDAR and mobile mapping at 2017. Indeed, my most recent publication involves in neighbor definition and robust measures (tensor and L1-PCA) for classification and 3D modelling of complex shapes (trees).
 
 # Publications
+* **Tian Zhang**, Joelle Abu-Hani, **Sagi Filin**. "Shape Preserving Noise Attenuation Model for 3-D-modeling of Heritage Sites by Portable Laser Scans". Accepted to [3D-ARCH 2022](https://www.3d-arch.org/). 
 * **Tian Zhang**, **Sagi Filin**. "LEAF-WOOD SEPARATION AND TREE SKELETONIZATION FROM LOW RESOLUTION AND NOISY 3-D POINT CLOUDS". Accepted to [SilviLaser 2021](https://silvilaser2021.at/). 
 * **Yidong Lou**, **Tian Zhang**, Jian Tang, Weiwei Song, Yi Zhang, Liang Chen. "A Fast Algorithm for Rail Extraction Using Mobile Laser Scanning Data". Accepted to Remote Sens. 2018, 10(12), 1998.
 
