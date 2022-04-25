@@ -4,8 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2022
-* <b>Shape Preserving Noise Attenuation Model for 3-D-modeling of Heritage Sites by Portable Laser Scans</b>. <br>
-<b>Tian Zhang</b>, Joelle Abu-Hani, Sagi Filin. <i>(**3D-ARCH 2022, ISPRS Archieves**)</i>.<br>
+ * <b> Shape Preserving Noise Attenuation Model for 3-D-modeling of Heritage Sites by Portable Laser Scans</b>. <br>
+ <b>Tian Zhang</b>, Joelle Abu-Hani, Sagi Filin. <i>(**3D-ARCH 2022, ISPRS Archieves**)</i>.<br>
 
 
 ## 2021
