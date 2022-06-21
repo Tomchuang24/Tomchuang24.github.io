@@ -11,10 +11,12 @@ I am currently in the [Civil Engineering](https://cee.technion.ac.il/), [Israel 
 I received my Bachelor's degree and MSc degree in [Wuhan University](https://en.whu.edu.cn/) in Wuhan, China, where I was a member of the 2013 Leading Engineering Project in Geomatics Engineering and 2017 Project in Navigation, Guidance and Control. 
 
 # Research
-My research interests mainly lie in Multi-sensor intergration, Autonomous Mapping and **3D modelling and Geometry Analysis**. <br> I started my research as working with GNSS/INS/LiDAR and mobile mapping at 2017. Indeed, my most recent publication involves in neighbor definition and robust measures (tensor and L1-PCA) for classification and 3D modelling of complex shapes (trees).
+My research interests mainly lie in Sensor Fusion, Autonomous Mapping, Cognition-level Scene Understanding and **3D modelling and Geometric Deep Learning**. <br> I started my research as working with GNSS/INS/LiDAR and mobile mapping at 2017. Most recent publications of mine are about neighbor definition and robust measures (tensor and L1-PCA) for classification, point-set denoising and neural point cloud upsampling and 3D modelling of complex shapes (trees).
 
 # Publications
-* **Tian Zhang**, Joelle Abu-Hani, **Sagi Filin**. "Shape Preserving Noise Attenuation Model for 3-D-modeling of Heritage Sites by Portable Laser Scans". Accepted to [3D-ARCH 2022](https://www.3d-arch.org/). 
+* **Tian Zhang**, **Sagi Filin**. "DEEP-LEARNING-BASED POINT CLOUD UPSAMPLING OF NATURAL ENTITIES AND SCENES". Accepted to [ISPRS CONGRESS 2022](https://www.isprs2022-nice.com/). 
+* Joelle Abu-Hani, **Tian Zhang**, **Sagi Filin**. "HIGH FIDELITY EDGE AWARE NORMAL ESTIMATION FOR LOW RESOLUTION AND NOISY POINT CLOUDS OF HERITAGE SITES". Accepted to [ISPRS CONGRESS 2022](https://www.isprs2022-nice.com/). 
+* **Tian Zhang**, Joelle Abu-Hani, **Sagi Filin**. "SHAPE PRESERVING NOISE ATTENUATION MODEL FOR 3-D-MODELING OF HERITAGE SITES BY PORTABLE LASER SCANS". Accepted to [3D-ARCH 2022](https://www.3d-arch.org/). 
 * **Tian Zhang**, **Sagi Filin**. "LEAF-WOOD SEPARATION AND TREE SKELETONIZATION FROM LOW RESOLUTION AND NOISY 3-D POINT CLOUDS". Accepted to [SilviLaser 2021](https://silvilaser2021.at/). 
 * **Yidong Lou**, **Tian Zhang**, Jian Tang, Weiwei Song, Yi Zhang, Liang Chen. "A Fast Algorithm for Rail Extraction Using Mobile Laser Scanning Data". Accepted to Remote Sens. 2018, 10(12), 1998.
 
