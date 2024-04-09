@@ -14,6 +14,7 @@ I received my Bachelor's degree and MSc degree in [Wuhan University](https://en.
 My research interests mainly lie in Sensor Fusion, Autonomous Mapping, Cognition-level Scene Understanding and **3D modelling and Geometric Deep Learning**. <br> I started my research as working with GNSS/INS/LiDAR and mobile mapping at 2017. Most recent publications of mine are about neighbor definition and robust measures (tensor and L1-PCA) for classification, point-set denoising and neural point cloud upsampling and 3D modelling of complex shapes (trees).
 
 # Publications
+* **Tian Zhang**, **Tian Zhang**, **Sagi Filin**. "Spatio-temporal registration of plants non-rigid 3-D structures". Accepted to [ISPRS Journal of Photogrammetry and remote sensing](https://tomchuang24.github.io/PLANT4D/). 
 * **Tian Zhang**, **Sagi Filin**. "DEEP-LEARNING-BASED POINT CLOUD UPSAMPLING OF NATURAL ENTITIES AND SCENES". Accepted to [ISPRS CONGRESS 2022](https://www.isprs2022-nice.com/). 
 * Joelle Abu-Hani, **Tian Zhang**, **Sagi Filin**. "HIGH FIDELITY EDGE AWARE NORMAL ESTIMATION FOR LOW RESOLUTION AND NOISY POINT CLOUDS OF HERITAGE SITES". Accepted to [ISPRS CONGRESS 2022](https://www.isprs2022-nice.com/). 
 * **Tian Zhang**, Joelle Abu-Hani, **Sagi Filin**. "SHAPE PRESERVING NOISE ATTENUATION MODEL FOR 3-D-MODELING OF HERITAGE SITES BY PORTABLE LASER SCANS". Accepted to [3D-ARCH 2022](https://www.3d-arch.org/). 

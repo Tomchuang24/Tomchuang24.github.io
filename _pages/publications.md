@@ -3,6 +3,9 @@ title: "Publications ([Google Scholar Profile](https://scholar.google.com/citati
 permalink: /publications/
 author_profile: true
 ---
+## 2023
+ * <b> Spatio-temporal registration of plants non-rigid 3-D structures</b><br>
+ <b>Tian Zhang</b>, Bashar Elnashef, Sagi Filin. <i>(**ISPRS Journal of Photogrammetry and remote sensing**)</i>.<br>
 ## 2022
  * <b> DEEP-LEARNING-BASED POINT CLOUD UPSAMPLING OF NATURAL ENTITIES AND SCENES</b><br>
  <b>Tian Zhang</b>, Sagi Filin. <i>(**ISPRS CONGRESS 2022, ISPRS Archieves**)</i>.<br>
